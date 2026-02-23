@@ -1,0 +1,76 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  height: 1024px;
+  position: relative;
+}
+.group-2 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.group-1 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.landing-page2 {
+  background: linear-gradient(
+      to left,
+      rgba(53, 57, 57, 0.54),
+      rgba(53, 57, 57, 0.54)
+    ),
+    linear-gradient(to left, #ffffff, #ffffff);
+  border-style: solid;
+  border-color: #e9e1e1;
+  border-width: 1px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bmgt-407-lets-create-a-website {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 538px);
+  top: 355px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 508px;
+  width: 1251px;
+}
+.rounded-rectangle {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 645px;
+  top: 696px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 643px;
+  top: 705px;
+}
